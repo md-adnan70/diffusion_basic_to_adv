@@ -2,3 +2,4 @@ cifar-10-batches-py/
 data/
 venv/
 runs/
+diffusion_model_ema.pth

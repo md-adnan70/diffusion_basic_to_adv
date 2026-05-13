@@ -1,3 +1,4 @@
 deepinv
 tqdm
 tensorboard
+diffusers
